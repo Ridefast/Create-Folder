@@ -16,4 +16,4 @@ inside that Folder five  other Folders will be created
 2. Install Files - Any Files that have been installed on the Customer Environment like MEAPS, UF Update Files etc.
 3. Backup - Any kind of Backup Files like Workflows, SQL Backups or DCM Files etc. 
 4. Tools - Tools like RSOK or UFTools etc.
-5. Customized Files - Files that are specially edited for the Customer.
+5. Customized Files - Files that are specially edited for the Customer. Test
