@@ -10,6 +10,8 @@ inside that Folder five  other Folders will be created
 4. Tools
 5. Customized Files
 
+Additionally a "Readme.txt" is created containing Informations what should be placed in what Folder. 
+
 ## What should the Folders Contain
 
 1. Infos - Informations about the Customer for Example A Docutool Export File.
